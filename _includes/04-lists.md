@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- ## Laying on a coach
+- ## Having money
+- ## Eating tasty food
+- ## Something else ❓

@@ -1,0 +1,6 @@
+- *Write* out some of your
+- __awesome__ attributes
+- use __*emphasis*__ (like bold or italics) to identify:
+  - keywords
+  - programming languages
+  - skills

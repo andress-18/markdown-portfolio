@@ -1,0 +1,4 @@
+- ## Laying on a coach
+- ## Having money
+- ## Eating tasty food
+- ## Something else ❓
